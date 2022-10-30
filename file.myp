@@ -1,0 +1,12 @@
+PRINT "Hello World"
+PRINT "This is a print!"
+PRINT 10
+PRINT 1.0
+
+VAR name = "3faze"
+VAR age = 13
+
+PRINT name
+PRINT age
+
+//This is a comment!
