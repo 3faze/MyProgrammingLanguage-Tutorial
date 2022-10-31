@@ -16,9 +16,3 @@ INPUT "What is your name: " => inputname
 PRINT inputname
 
 EVAL (1 + 2 + 3 / 2)
-
-WAIT 1.0
-WAIT 1
-PRINT asdsdadsadaads
-QUIT
-PRINT "I won't show!"
