@@ -63,15 +63,3 @@ for i in contents:
             third_separation = second_separation[1].split(")")
             print(evaluate(third_separation[0])) #I forgot to say what index it was.
 
-        elif "WAIT " in i:
-            first_separation = i.split("WAIT")
-            second_separation = first_separation[1]
-            time.sleep(float(second_separation))
-
-        elif "QUIT" in i:
-            quit()
-
-        else:
-            pass #Let's just pass for now and you guys tell me later if you want me to correct it. Cause
-        #we gotta make some changes on a few functions.
-
