@@ -1,0 +1,24 @@
+PRINT "Hello World"
+PRINT "This is a print!"
+PRINT 10
+PRINT 1.0
+
+VAR name = "3faze"
+VAR age = 13
+
+PRINT name
+PRINT age
+
+//This is a comment!
+
+INPUT "What is your name: " => inputname
+
+PRINT inputname
+
+EVAL (1 + 2 + 3 / 2)
+
+WAIT 1.0
+WAIT 1
+PRINT asdsdadsadaads
+QUIT
+PRINT "I won't show!"
